@@ -1,15 +1,3 @@
-<!--
-  README.md for GitHub profile — Areesh (AreeshAlam)
-  - Personal + Professional hybrid tone
-  - Icon-only tech stack grid (uniform sizes, aligned)
-  - Project cards, collapsible details, certifications, Medium links
-  - GitHub stats & trophies
-  - Visitor counter
-  Notes:
-  - Replace placeholders (yourusername, repo links, article links, cert links) with real values.
--->
-
-<!-- HEADER -->
 <p align="center">
   <img alt="Areesh Header" src="https://raw.githubusercontent.com/areeshalam/areeshalam/master/header-wave.svg" style="max-width:100%;height:120px;object-fit:cover;border-radius:12px;overflow:hidden" />
 </p>
