@@ -96,7 +96,6 @@
       A YouTube-style social network focused on positive content, short-form videos, and ethical moderation.
       Features: subscriptions, perks delivery, short videos, impressions system, and modular microservices.
     </p>
-
     <p style="margin:8px 0">
       <a href="https://github.com/areeshalam/BEGENONE" style="text-decoration:none" aria-label="BEGENONE Repo">
         <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
@@ -106,7 +105,6 @@
         <img src="https://img.shields.io/badge/Live-Website-0ea5a4?style=for-the-badge" alt="Live" />
       </a>
     </p>
-
     <p style="margin:14px 0 0 0">
       <img alt="React" src="https://skillicons.dev/icons?i=react" height="28" style="margin-right:8px;vertical-align:middle"/>
       <img alt="Node" src="https://skillicons.dev/icons?i=nodejs" height="28" style="margin-right:8px;vertical-align:middle"/>
