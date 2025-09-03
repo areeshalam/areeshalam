@@ -89,74 +89,64 @@
 <!-- Use a responsive table-layout for project "cards" -->
 <table width="100%" cellpadding="12" cellspacing="0" style="border-collapse:collapse">
   <tr>
-    <td width="48%" style="vertical-align:top;padding:12px;border-radius:12px;background:linear-gradient(180deg,#0b1220, #071021);box-shadow:0 6px 18px rgba(2,6,23,0.6)">
-      <h3 style="margin:0 0 6px 0;color:#9fe7cb">BEGENONE — Social for Creators</h3>
-      <p style="color:#9fb0c8;margin:6px 0 12px 0">
-        A YouTube-style social network focused on positive content, short-form videos, and ethical moderation.
-        Features: subscriptions, perks delivery, short videos, impressions system, and modular microservices.
-      </p>
-      <p style="margin:8px 0">
-        <a href="https://github.com/areeshalam/BEGENONE" style="text-decoration:none">
-          <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-        &nbsp;
-        <a href="https://begenone.example.app" style="text-decoration:none">
-          <img src="https://img.shields.io/badge/Live-Website-0ea5a4?style=for-the-badge" alt="Live" />
-        </a>
-      </p>
-      <p style="margin:14px 0 0 0">
-        <img alt="React" src="https://skillicons.dev/icons?i=react" height="28" style="margin-right:6px;vertical-align:middle"/>
-        <img alt="Node" src="https://skillicons.dev/icons?i=nodejs" height="28" style="margin-right:6px;vertical-align:middle"/>
-        <img alt="Mongo" src="https://skillicons.dev/icons?i=mongodb" height="28" style="margin-right:6px;vertical-align:middle"/>
-        <img alt="AWS" src="https://skillicons.dev/icons?i=aws" height="28" style="margin-right:6px;vertical-align:middle"/>
-        <img alt="Docker" src="https://skillicons.dev/icons?i=docker" height="28" style="margin-right:6px;vertical-align:middle"/>
-      </p>
-    </td>
+  <!-- LEFT PROJECT CARD -->
+  <td width="48%" style="vertical-align:top;padding:12px;border-radius:12px;background:#0b1220;color:#dbe7f5;">
+    <h3 style="margin:0 0 6px 0;color:#9fe7cb;font-size:1.15rem">🔹 BEGENONE — Social for Creators</h3>
+    <p style="color:#9fb0c8;margin:6px 0 12px 0;font-size:0.95rem;line-height:1.4">
+      A YouTube-style social network focused on positive content, short-form videos, and ethical moderation.
+      Features: subscriptions, perks delivery, short videos, impressions system, and modular microservices.
+    </p>
 
-    <td width="4%"></td>
+    <p style="margin:8px 0">
+      <a href="https://github.com/areeshalam/BEGENONE" style="text-decoration:none" aria-label="BEGENONE Repo">
+        <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+      </a>
+      &nbsp;
+      <a href="https://begenone.example.app" style="text-decoration:none" aria-label="Live site">
+        <img src="https://img.shields.io/badge/Live-Website-0ea5a4?style=for-the-badge" alt="Live" />
+      </a>
+    </p>
 
-    <td width="48%" style="vertical-align:top;padding:12px;border-radius:12px;background:linear-gradient(180deg,#0b1220, #071021);box-shadow:0 6px 18px rgba(2,6,23,0.6)">
-      <h3 style="margin:0 0 6px 0;color:#ffd58a">Shorts Engine — High-Perf Video Delivery</h3>
-      <p style="color:#9fb0c8;margin:6px 0 12px 0">
-        Low-cost, high-throughput video delivery patterns built on S3 + CloudFront + lightweight edge transcoding.
-        Focus: cost control, adaptive bitrate, and cache-friendly short-form UX.
-      </p>
-      <p style="margin:8px 0">
-        <a href="https://github.com/areeshalam/shorts-engine" style="text-decoration:none">
-          <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-      </p>
-      <p style="margin:14px 0 0 0">
-        <img alt="S3" src="https://skillicons.dev/icons?i=s3" height="28" style="margin-right:6px;vertical-align:middle"/>
-        <img alt="cloudfront" src="https://skillicons.dev/icons?i=cloudflare" height="28" style="margin-right:6px;vertical-align:middle"/>
-        <img alt="ffmpeg" src="https://skillicons.dev/icons?i=ffmpeg" height="28" style="margin-right:6px;vertical-align:middle"/>
-        <img alt="node" src="https://skillicons.dev/icons?i=nodejs" height="28" style="margin-right:6px;vertical-align:middle"/>
-      </p>
-    </td>
-  </tr>
+    <p style="margin:14px 0 0 0">
+      <img alt="React" src="https://skillicons.dev/icons?i=react" height="28" style="margin-right:8px;vertical-align:middle"/>
+      <img alt="Node" src="https://skillicons.dev/icons?i=nodejs" height="28" style="margin-right:8px;vertical-align:middle"/>
+      <img alt="Mongo" src="https://skillicons.dev/icons?i=mongodb" height="28" style="margin-right:8px;vertical-align:middle"/>
+      <img alt="AWS" src="https://skillicons.dev/icons?i=aws" height="28" style="margin-right:8px;vertical-align:middle"/>
+      <img alt="Docker" src="https://skillicons.dev/icons?i=docker" height="28" style="margin-right:8px;vertical-align:middle"/>
+    </p>
+  </td>
 
-  <tr><td colspan="3" style="height:12px"></td></tr>
+  <!-- SPACER -->
+  <td width="4%"></td>
 
-  <tr>
-    <td colspan="3" style="vertical-align:top;padding:12px;border-radius:12px;background:linear-gradient(180deg,#071021,#030714);box-shadow:0 6px 18px rgba(2,6,23,0.6)">
-      <h3 style="margin:0 0 6px;color:#b7bdf0">Other Notable Work</h3>
-      <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:10px">
-        <!-- Small project chips -->
-        <a href="https://github.com/areeshalam/project-alpha" style="text-decoration:none">
-          <img src="https://img.shields.io/badge/Alpha-Repo-111827?style=flat-square&logo=github&logoColor=white" alt="Alpha" style="padding:6px 10px;border-radius:8px"/>
-        </a>
-        <a href="https://github.com/areeshalam/project-beta" style="text-decoration:none">
-          <img src="https://img.shields.io/badge/Beta-Repo-111827?style=flat-square&logo=github&logoColor=white" alt="Beta" style="padding:6px 10px;border-radius:8px"/>
-        </a>
-        <a href="https://github.com/areeshalam/project-gamma" style="text-decoration:none">
-          <img src="https://img.shields.io/badge/Gamma-Repo-111827?style=flat-square&logo=github&logoColor=white" alt="Gamma" style="padding:6px 10px;border-radius:8px"/>
-        </a>
-        <a href="#" style="text-decoration:none">
-          <img src="https://img.shields.io/badge/More...-See%20Profile-0ea5a4?style=flat-square" alt="More" style="padding:6px 10px;border-radius:8px"/>
-        </a>
-      </div>
-    </td>
-  </tr>
+  <!-- RIGHT PROJECT CARD -->
+  <td width="48%" style="vertical-align:top;padding:12px;border-radius:12px;background:#0b1220;color:#dbe7f5;">
+    <h3 style="margin:0 0 6px 0;color:#ffd58a;font-size:1.15rem">🔸 Shorts Engine — High-Perf Video Delivery</h3>
+    <p style="color:#9fb0c8;margin:6px 0 12px 0;font-size:0.95rem;line-height:1.4">
+      Low-cost, high-throughput video delivery patterns built on S3 + CloudFront + edge-friendly transcoding.
+      Focus: cost control, adaptive bitrate, low-latency playback, and cache-friendly UX for shorts.
+    </p>
+
+    <p style="margin:8px 0">
+      <a href="https://github.com/areeshalam/shorts-engine" style="text-decoration:none" aria-label="Shorts Engine Repo">
+        <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+      </a>
+      &nbsp;
+      <a href="#" style="text-decoration:none" aria-label="Shorts Docs (placeholder)">
+        <img src="https://img.shields.io/badge/Docs-Guide-2563eb?style=for-the-badge" alt="Docs" />
+      </a>
+    </p>
+
+    <p style="margin:14px 0 0 0">
+      <!-- Use skillicons icons (uniform height) -->
+      <img alt="S3" src="https://skillicons.dev/icons?i=s3" height="28" style="margin-right:8px;vertical-align:middle"/>
+      <img alt="CloudFront" src="https://skillicons.dev/icons?i=cloudflare" height="28" style="margin-right:8px;vertical-align:middle"/>
+      <img alt="FFmpeg" src="https://skillicons.dev/icons?i=ffmpeg" height="28" style="margin-right:8px;vertical-align:middle"/>
+      <img alt="Node" src="https://skillicons.dev/icons?i=nodejs" height="28" style="margin-right:8px;vertical-align:middle"/>
+      <img alt="Redis" src="https://skillicons.dev/icons?i=redis" height="28" style="margin-right:8px;vertical-align:middle"/>
+    </p>
+  </td>
+</tr>
 </table>
 
 ---
