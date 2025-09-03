@@ -127,24 +127,23 @@
       Focus: cost control, adaptive bitrate, low-latency playback, and cache-friendly UX for shorts.
     </p>
 
-    <p style="margin:8px 0">
-      <a href="https://github.com/areeshalam/shorts-engine" style="text-decoration:none" aria-label="Shorts Engine Repo">
-        <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-      </a>
-      &nbsp;
-      <a href="#" style="text-decoration:none" aria-label="Shorts Docs (placeholder)">
-        <img src="https://img.shields.io/badge/Docs-Guide-2563eb?style=for-the-badge" alt="Docs" />
-      </a>
-    </p>
-
-    <p style="margin:14px 0 0 0">
-      <!-- Use skillicons icons (uniform height) -->
-      <img alt="S3" src="https://skillicons.dev/icons?i=s3" height="28" style="margin-right:8px;vertical-align:middle"/>
-      <img alt="CloudFront" src="https://skillicons.dev/icons?i=cloudflare" height="28" style="margin-right:8px;vertical-align:middle"/>
-      <img alt="FFmpeg" src="https://skillicons.dev/icons?i=ffmpeg" height="28" style="margin-right:8px;vertical-align:middle"/>
-      <img alt="Node" src="https://skillicons.dev/icons?i=nodejs" height="28" style="margin-right:8px;vertical-align:middle"/>
-      <img alt="Redis" src="https://skillicons.dev/icons?i=redis" height="28" style="margin-right:8px;vertical-align:middle"/>
-    </p>
+  <p align="center">
+    <a href="https://github.com/areeshalam/BEGENONE" aria-label="BEGENONE Repo" title="BEGENONE — Repo">
+      <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+    </a>
+    &nbsp;
+    <a href="https://begenone.example.app" aria-label="BEGENONE Live" title="BEGENONE — Live site">
+      <img src="https://img.shields.io/badge/Live-Website-0ea5a4?style=for-the-badge" alt="Live site" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="28" height="28" style="margin:0 8px;vertical-align:middle"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="28" height="28" style="margin:0 8px;vertical-align:middle"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="28" height="28" style="margin:0 8px;vertical-align:middle"/>
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="28" height="28" style="margin:0 8px;vertical-align:middle"/>
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="28" height="28" style="margin:0 8px;vertical-align:middle"/>
+  </p>
   </td>
 </tr>
 </table>
