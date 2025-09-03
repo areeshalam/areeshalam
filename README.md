@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="https://avatars.githubusercontent.com/u/148607236?v=4" style="max-width:100%;height:120px;border-radius:50px;object-fit:cover;border-radius:12px;overflow:hidden" />
+  <img alt="" src="https://avatars.githubusercontent.com/u/148607236?v=4" style="max-width:100%;height:120px;border-radius:10px;object-fit:cover;border-radius:12px;overflow:hidden" />
 </p>
 
 <h1 align="center" style="margin-top:8px">Hey — I'm <strong>Areesh</strong> 👋</h1>
