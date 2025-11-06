@@ -45,30 +45,66 @@ I engineer distributed systems optimized for **reliability**, **performance**, a
 ---
 
 ## ⚙️ Tech Stack
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+### 🧠 Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=cs)
+![Go](https://skillicons.dev/icons?i=go)
+![Rust](https://skillicons.dev/icons?i=rust)
+
+### 🌐 Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![React](https://skillicons.dev/icons?i=react)
 ![React Native](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Sass](https://skillicons.dev/icons?i=sass)
+
+### 🛠️ Backend & Fullstack
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![Fastify](https://skillicons.dev/icons?i=fastify)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![AWS](https://skillicons.dev/icons?i=aws)
-![S3](https://skillicons.dev/icons?i=s3)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Fastify](https://skillicons.dev/icons?i=fastapi)
+![Django](https://skillicons.dev/icons?i=django)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Spring](https://skillicons.dev/icons?i=spring)
+
+### 🧩 Infrastructure / DevOps
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=k8s)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Vite](https://skillicons.dev/icons?i=vite)
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Azure](https://skillicons.dev/icons?i=azure)
+
+### 📦 Databases & APIs
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+
+### 🧪 Testing & CI/CD
+![Jest](https://skillicons.dev/icons?i=jest)
+![Cypress](https://skillicons.dev/icons?i=cypress)
+![Playwright](https://skillicons.dev/icons?i=playwright)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+
+### 🎨 Tools & Design
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Adobe](https://skillicons.dev/icons?i=adobe)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Swagger](https://skillicons.dev/icons?i=swagger)
+
 
 ---
 
