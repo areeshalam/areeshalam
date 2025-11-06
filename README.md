@@ -4,7 +4,8 @@
 
 # Hey — I'm **Areesh** 👋
 
-**Systems Architect · Cloud & DevOps Engineer · Full-Stack Developer**
+### **Systems Architect · Cloud & DevOps Engineer · Full-Stack Developer**
+
 I engineer for reliability, automate for efficiency, and deliver with precision.
 
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/areeshalam21)
@@ -114,8 +115,9 @@ I engineer distributed systems optimized for **reliability**, **performance**, a
 
 * A Video sharing social network platform for positive content and ethical moderation.
 * Subscriptions, short videos, perks delivery, modular services.
-* **Stack:** React · Node.js · MongoDB · AWS · Docker
-  [GitHub Repo](https://github.com/areeshalam/BEGENONE) · [Live Demo](https://begenone.com)
+* **Stack:** Pug · Node.js · MongoDB · AWS · Docker
+  (LEGACY PROJECT — Current is private) [GitHub Repo](https://github.com/areeshalam/BEGENONE-monolith-legacy)
+  * Current's — **Stack:** React · React Native · Node.js · MongoDB · AWS · Docker and More.
 
 ### 🔸 Shorts Engine — High-Perf Video Delivery
 
@@ -143,7 +145,7 @@ I engineer distributed systems optimized for **reliability**, **performance**, a
 <div align="start">
   <img src="https://avatars.githubusercontent.com/u/35373879?s=200&v=4" width="128" height="128" alt="Logo" />
 </div>
-<h2>  **Zero To Mastery Academy** </h2>
+<h2>  <strong> Zero To Mastery Academy </strong> </h2>
 
 Professional Training, Artificial Intelligence, Machine Learning & Data Science (2025 - 2026)    
 - Completed ML projects and data modeling tasks.  
@@ -157,7 +159,7 @@ Professional Training, Artificial Intelligence, Machine Learning & Data Science 
 <div align="start">
   <img src="https://avatars.githubusercontent.com/u/28806202?s=200&v=4" width="128" height="128" alt="Logo" />
 </div>
-<h2>**Academind**</h2>
+<h2> <strong> Academind </strong> </h2>
 
 Professional Training, Full-Stack & Mobile Development (2024 - 2025)  
 - Containerized apps with Docker and deployed via Kubernetes.  
@@ -172,7 +174,7 @@ Professional Training, Full-Stack & Mobile Development (2024 - 2025)
 <div align="start">
   <img src="https://assets.schools.nsw.gov.au/content/dam/doe/sws/schools/b/blacktownb-h/logo.png" width="128" height="128" alt="Logo" />
 </div>
-<h2>**Blacktown Boys High School**</h2>
+<h2> <strong> Blacktown Boys High School </strong> </h2>
 
 High School Certification, Computer Science (2023 - 2024)  
 - Studied software design, business systems, industrial tech, and law.  
@@ -250,10 +252,24 @@ Issued Sep 2021 — [Credential](https://udemy.com/certificate/UC-c9eb7355-a72a-
 
 ---
 
-## ✍️ Articles & Writing (Medium)
+## ✍️ Articles & Writings
 
-* [Should we really use Microfrontends?](https://medium.com/@areeshalam21/should-we-really-use-microfrontends)
-* [How Microservices Work & Scale Teams](https://medium.com/@areeshalam21/how-microservices-work)
+### [How Microservices Work and How to Scale Teams and Codebases](https://medium.com/code-sense/how-microservices-work-and-how-to-scale-teams-and-codebases-cff60c05ae69)  
+*Medium · Aug 22, 2025*  
+A practical breakdown of how microservices empower team autonomy, reduce codebase complexity, and enhance scalability. Includes real-world service decomposition and API communication strategies.
+
+---
+
+### [Should We Really Use MicroFrontends? A Simple Guide for Developers](https://medium.com/code-sense/should-we-really-use-microfrontends-a-simple-guide-for-developers-2d7a87136991)  
+*Medium · Aug 13, 2025*  
+Explores the tradeoffs of monolithic frontends vs. microfrontends. Demonstrates Module Federation with independent deployments for cleaner architecture and faster scaling.
+
+---
+
+### [Should You Really Use Microservices? The Easiest Guide for New Developers](https://medium.com/code-sense/should-you-really-use-microservices-the-easiest-guide-for-new-developers-474af76e4ecc)  
+*Medium · Aug 8, 2025*  
+An approachable guide to microservices vs. monoliths—covering core concepts, tradeoffs, and deployment tips for developers and team leads aiming to scale with clarity.
+
 * [More Articles →](https://medium.com/@areeshpersonal5)
 
 ---
@@ -270,26 +286,47 @@ Issued Sep 2021 — [Credential](https://udemy.com/certificate/UC-c9eb7355-a72a-
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:areeshpersonal5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/areeshalam21)
+[![Phone](https://img.shields.io/badge/Phone-%2B61%20Four~Three~Five%20·%20090%20·%20611-00bfa6?style=for-the-badge&logo=call&logoColor=white)](tel:+61435090611)
 
 ---
 
 ## 🧭 How I Work
 
-<details>
-  <summary><strong>Principles & Approach</strong></summary>
+### ⚙️ Principles & Development Approach
 
-* **Clarity-first:** Every spec answers "why" and "how".
-* **Ship small, ship often:** Iterate with feedback.
-* **Observability:** Logs, metrics, alerts are code.
-* **Cost-aware architecture:** Scale without bloat.
+- **Problem-First Mindset**  
+  Every project starts with *why*. I define the problem, business value, and tradeoffs before a single line of code is written.
 
-</details>
+- **SDLC Grounded in Reality**  
+  While I follow standard phases — *Requirements → Design → Development → Testing → Deployment → Maintenance* — I adapt them per project scope.  
+  No ceremony for the sake of process. Just enough structure to deliver with clarity.
+
+- **Build for Change, Not Perfection**  
+  Code is expected to evolve. I prioritize readability, testability, and modularity over over-engineering.
+
+- **Feedback-Centric Delivery**  
+  Iteration is baked in. I ship early, demo often, and course-correct with real user insights.
+
+- **Visibility as a Feature**  
+  Logs, metrics, traces, and alerts are part of the product. I build with observability from day one.
+
+- **Performance and Cost Consciousness**  
+  Scale thoughtfully. I assess cost implications early — infra, latency, dev hours — and design accordingly.
+
+- **Security Isn’t an Afterthought**  
+  Threat modeling, secrets hygiene, and secure defaults are integrated across the lifecycle.
+
+- **Tools Support Process, Not Vice Versa**  
+  I don’t force tools into workflows. Git, CI/CD, task tracking, and review processes are shaped to accelerate delivery — not slow it down.
 
 ---
 
 ## 📥 Visitor Counter
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=areeshalam\&label=Profile%20Views\&color=6\&icon=0\&pretty=true)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=areeshalam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Badge"/>
+</div>
+
 
 ---
 
