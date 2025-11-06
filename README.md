@@ -100,8 +100,9 @@ I engineer distributed systems optimized for **reliability**, **performance**, a
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
+<div>
 <div align="start">
   <img src="https://avatars.githubusercontent.com/u/35373879?s=200&v=4" width="128" height="128" alt="Logo" />
 </div>
@@ -112,9 +113,9 @@ Professional Training, Artificial Intelligence, Machine Learning & Data Science 
 - Participated in coding challenges and collaborative problem-solving.  
 - Built applications using Python, and applied ML to real-world cases.
 
-<br />
-<br />
-<br />
+
+---
+
 
 <div align="start">
   <img src="https://avatars.githubusercontent.com/u/28806202?s=200&v=4" width="128" height="128" alt="Logo" />
@@ -127,9 +128,9 @@ Professional Training, Full-Stack & Mobile Development (2024 - 2025)
 - Implemented backend APIs using Golang.  
 - Explored AI project building and Git/GitHub workflows.
 
-<br />
-<br />
-<br />
+
+---
+
 
 <div align="start">
   <img src="https://assets.schools.nsw.gov.au/content/dam/doe/sws/schools/b/blacktownb-h/logo.png" width="128" height="128" alt="Logo" />
@@ -139,6 +140,8 @@ Professional Training, Full-Stack & Mobile Development (2024 - 2025)
 High School Certification, Computer Science (2023 - 2024)  
 - Studied software design, business systems, industrial tech, and law.  
 - Analyzed the connection between technical systems and regulatory/business domains.
+
+</div>
 
 ---
 
