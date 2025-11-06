@@ -112,10 +112,10 @@ I engineer distributed systems optimized for **reliability**, **performance**, a
 
 ### 🔹 BEGENONE — Social for Creators
 
-* A YouTube-style platform for positive content and ethical moderation.
+* A Video sharing social network platform for positive content and ethical moderation.
 * Subscriptions, short videos, perks delivery, modular services.
 * **Stack:** React · Node.js · MongoDB · AWS · Docker
-  [GitHub Repo](https://github.com/areeshalam/BEGENONE) · [Live Demo](https://begenone.example.app)
+  [GitHub Repo](https://github.com/areeshalam/BEGENONE) · [Live Demo](https://begenone.com)
 
 ### 🔸 Shorts Engine — High-Perf Video Delivery
 
@@ -125,14 +125,15 @@ I engineer distributed systems optimized for **reliability**, **performance**, a
 
 ### 🔹 RotFalken — E-Commerce Automation
 
-* Retail-to-online system with real-time inventory & automated ordering.
-* **Stack:** React · Node.js · PostgreSQL · AWS · Docker
+- Hybrid WordPress backend with custom React frontend for dynamic product handling.
+- Real-time inventory sync and order automation integrated via Node.js microservices.
+- Stack: WordPress · Figma
 
 ### 🔸 Global Vaddo — Charity Platform
 
-* Digital modernization of a nonprofit website.
-* Optimized for accessibility, speed, and donation UX.
-* **Stack:** Next.js · Node.js · AWS · Docker · Figma
+- WordPress CMS backend powering a statically optimized frontend via Next.js.
+- Fully redesigned UX for donations, accessibility compliance, and mobile speed.
+- Stack: WordPress · Figma
 
 ---
 
