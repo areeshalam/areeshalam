@@ -45,6 +45,30 @@ I engineer distributed systems optimized for **reliability**, **performance**, a
 
 ---
 
+### 🧩 Note on Projects, Languages & Tools
+
+> A significant portion of my engineering work resides in **private repositories** due to **client/project confidentiality**, **system sensitivity**, and **ongoing R&D**.  
+>  
+> What’s public here provides a glimpse into my broader engineering scope — focused on full-stack, DevOps, and systems design.  
+>
+> My **core production stack** revolves around:
+>
+> - **JavaScript / TypeScript**
+> - **React · React Native · Node.js**
+> - **Cloud Infrastructure** (AWS · Docker · Kubernetes · Terraform)
+>
+> I also maintain **working proficiency** in lower-level and enterprise ecosystems to strengthen my systems understanding:
+>
+> - **Java & Spring Boot** — for backend architecture and microservices patterns.  
+> - **C & C++** — for systems-level insights and performance-critical modules.  
+> - **C# & .NET Core** — for service-driven backend and desktop integrations.  
+> - **Rust** — for exploring memory safety, concurrency, and performance.  
+>
+> While not yet advanced in these languages, I use them to deepen my understanding of **runtime behavior**, **memory models**, and **system optimization**.  
+> Over time, I aim to bridge these ecosystems with my full-stack and cloud expertise.
+
+---
+
 ## ⚙️ Tech Stack
 ### 🧠 Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -95,19 +119,22 @@ I engineer distributed systems optimized for **reliability**, **performance**, a
 ### 🧪 Testing & CI/CD
 ![Jest](https://skillicons.dev/icons?i=jest)
 ![Cypress](https://skillicons.dev/icons?i=cypress)
-![Playwright](https://skillicons.dev/icons?i=playwright)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" />
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
 
 ### 🎨 Tools & Design
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
-![Adobe](https://skillicons.dev/icons?i=adobe)
+<img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-logo-1-1.png" width="48" height="48" alt="Adobe Logo" />
 ![Postman](https://skillicons.dev/icons?i=postman)
-![Swagger](https://skillicons.dev/icons?i=swagger)
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio Logo" />
 
 
 ---
+
+
 
 ## 📂 Featured Projects
 
