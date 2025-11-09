@@ -1,6 +1,7 @@
-<div align="center" style="border-radius:12px">
+ <div align="center" style="border-radius:12px">
   <img alt="Areesh's Avatar" src="https://avatars.githubusercontent.com/u/148607236?v=4" style="max-width:100%;height:200px;border-radius:12px" />
 </div>
+
 
 # Hey — I'm **Areesh** 👋
 
@@ -14,7 +15,6 @@ I engineer for reliability, automate for efficiency, and deliver with precision.
 [![X/Twitter](https://img.shields.io/badge/-X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/areeshalam21)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:areeshpersonal5@gmail.com)
 
-<a href="https://app.daily.dev/areeshalam"><img src="https://api.daily.dev/devcards/v2/u2HrR9LhI8M5GPOy04JG5.png?type=wide&r=w9a" width="100%" alt="Areesh Alam's Dev Card"/></a>
 
 ---
 
@@ -44,6 +44,18 @@ I engineer distributed systems optimized for **reliability**, **performance**, a
 * **Global Vaddo** – Nonprofit platform modernization.
 
 *Principle: Eliminate fragility, automate recovery, and let the system prove resilience through data—not assumptions.*
+
+<br />
+
+<p align="center">
+  <a href="https://app.daily.dev/areeshalam">
+    <img src="https://api.daily.dev/devcards/v2/u2HrR9LhI8M5GPOy04JG5.png?type=wide&r=w9a" 
+         alt="Areesh Alam's Dev Card" 
+         width="750" 
+         style="border-radius: 12px;" />
+  </a>
+</p>
+
 
 ---
 
