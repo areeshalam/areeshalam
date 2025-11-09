@@ -14,6 +14,8 @@ I engineer for reliability, automate for efficiency, and deliver with precision.
 [![X/Twitter](https://img.shields.io/badge/-X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/areeshalam21)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:areeshpersonal5@gmail.com)
 
+<a href="https://app.daily.dev/areeshalam"><img src="https://api.daily.dev/devcards/v2/u2HrR9LhI8M5GPOy04JG5.png?r=td4&type=wide" width="652" alt="Areesh Alam's Dev Card"/></a>
+
 ---
 
 ## 👨‍💻 About Me
