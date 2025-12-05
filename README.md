@@ -295,25 +295,63 @@ Issued Sep 2021 — [Credential](https://udemy.com/certificate/UC-c9eb7355-a72a-
 
 ## ✍️ Articles & Writings
 
+---
+
+### [The Skill You Actually Lack Isn’t Coding — It’s Focus](https://medium.com/code-sense/the-skill-you-actually-lack-isnt-coding-it-s-focus-9174347b8410)  
+*Medium*  
+A breakdown of the hidden failure mode most developers never notice: inconsistency. Why momentum, documentation, and daily practice matter more than raw talent.
+
+---
+
+### [You’re Learning Everything About Tech — But You Still Don’t Know What To Do With It](https://medium.com/code-sense/youre-learning-everything-about-tech-but-you-still-don-t-know-what-to-do-with-it-3248a2fdd7a9)  
+*Medium*  
+A guide for those drowning in tutorials but lacking direction. Explains how project-driven learning creates clarity, purpose, and momentum.
+
+---
+
+### [How I Finally Got a React Native Monorepo Working (Turbo · PNPM · Expo Shell)](https://medium.com/code-sense/how-i-finally-got-a-react-native-monorepo-working-with-turbo-pnpm-and-an-expo-shell-after-c8afd85522ea)  
+*Medium*  
+A complete post-mortem of building a modern RN monorepo. Covers bundling issues, EAS pitfalls, workspace conflicts, and the architecture that finally worked.
+
+---
+
+### [The Signup System That Worked — But Locked Users Out](https://medium.com/code-sense/the-signup-system-that-worked-but-locked-users-out-f20cda5f18fa)  
+*Medium*  
+A case study showing how a functional system still failed users. Unpacks subtle verification bugs, token handling, and design decisions that break onboarding.
+
+---
+
+### [My S3 Multipart Upload Was Lying to Me — Here’s How I Caught It](https://medium.com/code-sense/my-s3-multipart-upload-was-lying-to-me-heres-how-i-caught-it-53eb27f065b0)  
+*Medium*  
+A technical deep dive into silent S3 upload failures. Covers checksum mismatches, corrupted parts, misaligned SDK assumptions, and the corrected architecture.
+
+---
+
+### [When Expo Go Refuses to Load: My Unexpected War with Wi-Fi](https://medium.com/code-sense/when-expo-go-refuses-to-load-my-unexpected-war-with-wi-fi-afb5c7ce8737)  
+*Medium*  
+A realistic debugging story about Expo Go failing to load due to network issues. Explains host-device IP mismatches, tunneling, LAN mode, and development pitfalls.
+
+---
+
 ### [How Microservices Work and How to Scale Teams and Codebases](https://medium.com/code-sense/how-microservices-work-and-how-to-scale-teams-and-codebases-cff60c05ae69)  
-*Medium · Aug 22, 2025*  
-A practical breakdown of how microservices empower team autonomy, reduce codebase complexity, and enhance scalability. Includes real-world service decomposition and API communication strategies.
+*Medium*  
+Explains the foundations of microservices — boundaries, communication, autonomy — and how they enable scaling teams, systems, and deployment pipelines.
 
 ---
 
 ### [Should We Really Use MicroFrontends? A Simple Guide for Developers](https://medium.com/code-sense/should-we-really-use-microfrontends-a-simple-guide-for-developers-2d7a87136991)  
-*Medium · Aug 13, 2025*  
-Explores the tradeoffs of monolithic frontends vs. microfrontends. Demonstrates Module Federation with independent deployments for cleaner architecture and faster scaling.
+*Medium*  
+A practical overview of microfrontends, Module Federation, when they help, and when they can destroy velocity instead of improving it.
 
 ---
 
 ### [Should You Really Use Microservices? The Easiest Guide for New Developers](https://medium.com/code-sense/should-you-really-use-microservices-the-easiest-guide-for-new-developers-474af76e4ecc)  
-*Medium · Aug 8, 2025*  
-An approachable guide to microservices vs. monoliths—covering core concepts, tradeoffs, and deployment tips for developers and team leads aiming to scale with clarity.
-
-* [More Articles →](https://medium.com/@areeshpersonal5)
+*Medium*  
+A beginner-friendly walkthrough of monoliths vs microservices, tradeoffs, deployment realities, and how to make the right architecture choice.
 
 ---
+
+### **[More Articles →](https://medium.com/code-sense)**
 
 ## 📊 GitHub Stats
 
