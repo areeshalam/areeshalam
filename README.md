@@ -297,6 +297,12 @@ Issued Sep 2021 — [Credential](https://udemy.com/certificate/UC-c9eb7355-a72a-
 
 ---
 
+### [The Lie of “I’ll Start When I’m Ready” — And Why It Destroys Ambitious People](https://medium.com/code-sense/the-lie-of-ill-start-when-i-m-ready-and-why-it-destroys-ambitious-people-c3f0bf0d20ea)  
+*Medium*  
+A psychological teardown of procrastination disguised as “preparation.” Explains why waiting to feel ready kills momentum, traps ambitious people in planning loops, and how real progress actually begins.
+
+---
+
 ### [The Skill You Actually Lack Isn’t Coding — It’s Focus](https://medium.com/code-sense/the-skill-you-actually-lack-isnt-coding-it-s-focus-9174347b8410)  
 *Medium*  
 A breakdown of the hidden failure mode most developers never notice: inconsistency. Why momentum, documentation, and daily practice matter more than raw talent.
