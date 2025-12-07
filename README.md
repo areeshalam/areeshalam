@@ -297,6 +297,12 @@ Issued Sep 2021 — [Credential](https://udemy.com/certificate/UC-c9eb7355-a72a-
 
 ---
 
+### [Why Most Side Projects Die at the Deployment Stage](https://medium.com/code-sense/why-most-side-projects-die-at-the-deployment-stage-0dad66263e6c)  
+*Medium*  
+A breakdown of why projects rarely fail during development but collapse when they hit production. Covers the shock of real infrastructure, public exposure, cost, responsibility, and the hidden pressures that stall most builders right before shipping.
+
+---
+
 ### [The Lie of “I’ll Start When I’m Ready” — And Why It Destroys Ambitious People](https://medium.com/code-sense/the-lie-of-ill-start-when-i-m-ready-and-why-it-destroys-ambitious-people-c3f0bf0d20ea)  
 *Medium*  
 A psychological teardown of procrastination disguised as “preparation.” Explains why waiting to feel ready kills momentum, traps ambitious people in planning loops, and how real progress actually begins.
