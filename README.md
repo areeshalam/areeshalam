@@ -297,6 +297,12 @@ Issued Sep 2021 — [Credential](https://udemy.com/certificate/UC-c9eb7355-a72a-
 
 ---
 
+### [After 100,000 Lines of Code, This Is What Clean Finally Means](https://medium.com/code-sense/after-100-000-lines-of-code-this-is-what-clean-finally-means-e328812528d5)  
+*Medium*  
+A hard-earned breakdown of what “clean code” actually means after writing and maintaining 100K+ lines in production. Covers clutter removal, real-world logging, disciplined imports, documentation that editors can understand, and why readability beats cleverness every time.
+
+---
+
 ### [Why Most Side Projects Die at the Deployment Stage](https://medium.com/code-sense/why-most-side-projects-die-at-the-deployment-stage-0dad66263e6c)  
 *Medium*  
 A breakdown of why projects rarely fail during development but collapse when they hit production. Covers the shock of real infrastructure, public exposure, cost, responsibility, and the hidden pressures that stall most builders right before shipping.
