@@ -1,4 +1,4 @@
- <div align="center" style="border-radius:12px">
+  <div align="center" style="border-radius:12px">
   <img alt="Areesh's Avatar" src="https://avatars.githubusercontent.com/u/148607236?v=4" style="max-width:100%;height:200px;border-radius:12px" />
 </div>
 
@@ -294,6 +294,18 @@ Issued Sep 2021 — [Credential](https://udemy.com/certificate/UC-c9eb7355-a72a-
 ---
 
 ## ✍️ Articles & Writings
+
+---
+
+### [Why Most Side Projects Die at the Deployment Stage](https://medium.com/code-sense/why-most-side-projects-die-at-the-deployment-stage-0dad66263e6c)  
+*Medium*  
+A breakdown of why projects that work locally still fail in production. Explains DNS, ports, TLS, CI/CD, containerization, environment drift, and the psychological barriers that stop developers from shipping.
+
+---
+
+### [The Lie of “I’ll Start When I’m Ready” — And Why It Destroys Ambitious People](https://medium.com/code-sense/the-lie-of-ill-start-when-i-m-ready-and-why-it-destroys-ambitious-people-c3f0bf0d20ea)  
+*Medium*  
+A psychological teardown of procrastination disguised as preparation. Why waiting to feel “ready” kills momentum, and how progress only starts when you act before certainty exists.
 
 ---
 
