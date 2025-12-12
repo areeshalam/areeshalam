@@ -297,6 +297,12 @@ Issued Sep 2021 — [Credential](https://udemy.com/certificate/UC-c9eb7355-a72a-
 
 ---
 
+### [4 Clean Code Habits That Instantly Make You a Better Developer (Part 2)](https://medium.com/code-sense/4-clean-code-habits-that-instantly-make-you-a-better-developer-part-2-b54be3b403b2)  
+*Medium*  
+A continuation of practical clean-code discipline, focusing on habits that improve readability, reduce cognitive load, and prevent subtle bugs. This piece digs into small structural decisions that quietly compound into long-term engineering leverage.
+
+---
+
 ### [5 Clean Code Principles That Save You Months of Pain Later](https://medium.com/code-sense/5-clean-code-principles-that-save-you-months-of-pain-later-744a5b468e0b)  
 *Medium*  
 A practical guide to five clean-code habits that eliminate technical debt before it forms. From meaningful structure to smarter logging and self-documenting patterns, this article shows how small daily choices prevent months of debugging, rewrites, and production chaos.
