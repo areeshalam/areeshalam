@@ -45,18 +45,6 @@ I engineer distributed systems optimized for **reliability**, **performance**, a
 
 *Principle: Eliminate fragility, automate recovery, and let the system prove resilience through data—not assumptions.*
 
-<br />
-
-<p align="center">
-  <a href="https://app.daily.dev/areeshalam">
-    <img src="https://api.daily.dev/devcards/v2/u2HrR9LhI8M5GPOy04JG5.png?type=wide&r=w9a" 
-         alt="Areesh Alam's Dev Card" 
-         width="750" 
-         style="border-radius: 12px;" />
-  </a>
-</p>
-
-
 ---
 
 ### 🧩 Note on Projects, Languages & Tools
