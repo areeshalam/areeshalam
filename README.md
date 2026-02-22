@@ -419,9 +419,9 @@ A beginner-friendly walkthrough of monoliths vs microservices, tradeoffs, deploy
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=areeshalam\&theme=dark\&show_icons=true\&count_private=true\&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areeshalam\&theme=dark\&layout=compact\&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=areeshalam\&theme=dark\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=areeshalam&theme=dark&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areeshalam&theme=dark&layout=compact&hide_border=true&cache_seconds=1800)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=areeshalam&theme=dark&hide_border=true)
 
 ---
 
