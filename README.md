@@ -136,80 +136,150 @@ I engineer distributed systems optimized for **reliability**, **performance**, a
 
 ---
 
+## 🚀 Projects & Engineering Work
 
+# 🥇 Primary Project
 
-## 📂 Featured Projects
+### BEGENONE — Creator Video Platform
 
-### 🔹 BEGENONE — Social for Creators
+A video-sharing social network designed for **positive content, creator monetization, and ethical moderation**.
 
-* A Video sharing social network platform for positive content and ethical moderation.
-* Subscriptions, short videos, perks delivery, modular services.
-* **Stack:** Pug · Node.js · MongoDB · AWS · Docker
-  (LEGACY PROJECT — Current is private) [GitHub Repo](https://github.com/areeshalam/BEGENONE-monolith-legacy)
-  * Current's — **Stack:** React · React Native · Node.js · MongoDB · AWS · Docker and More.
+Core capabilities include:
 
-### 🔸 Shorts Engine — High-Perf Video Delivery
+• creator subscriptions and digital perks  
+• short-form video distribution  
+• modular service architecture  
+• scalable media delivery
 
-* S3 + CloudFront video delivery system.
-* Edge-optimized transcoding, cache-friendly playback, low cost.
-* **Stack:** Node.js · AWS · FFmpeg · Docker
+**Legacy Implementation**
 
-### 🔹 RotFalken — E-Commerce Automation
+Stack  
+Pug · Node.js · MongoDB · AWS · Docker  
 
-- Hybrid WordPress backend with custom React frontend for dynamic product handling.
-- Real-time inventory sync and order automation integrated via Node.js microservices.
-- Stack: WordPress · Figma
+Repository  
+https://github.com/areeshalam/BEGENONE-monolith-legacy
 
-### 🔸 Global Vaddo — Charity Platform
+**Current Architecture (Private)**
 
-- WordPress CMS backend powering a statically optimized frontend via Next.js.
-- Fully redesigned UX for donations, accessibility compliance, and mobile speed.
-- Stack: WordPress · Figma
+React · React Native · Node.js · MongoDB · AWS · Docker · Distributed services
 
 ---
 
-# 🎓 Education
+<details>
+<summary><strong>View Other Projects' Portfolio</strong></summary>
 
-<div>
-<div align="start">
-  <img src="https://avatars.githubusercontent.com/u/35373879?s=200&v=4" width="128" height="128" alt="Logo" />
-</div>
-<h2>  <strong> Zero To Mastery Academy </strong> </h2>
+<br>
 
-Professional Training, Artificial Intelligence, Machine Learning & Data Science (2025 - 2026)    
-- Completed ML projects and data modeling tasks.  
-- Participated in coding challenges and collaborative problem-solving.  
-- Built applications using Python, and applied ML to real-world cases.
+# 🥈 Secondary Projects
 
+### Shorts Engine — High-Performance Video Delivery
 
----
+Media pipeline built for **efficient short-video streaming and scalable delivery**.
 
+Highlights
 
-<div align="start">
-  <img src="https://avatars.githubusercontent.com/u/28806202?s=200&v=4" width="128" height="128" alt="Logo" />
-</div>
-<h2> <strong> Academind </strong> </h2>
+• S3 + CloudFront media distribution  
+• edge-optimized video playback  
+• cost-efficient transcoding workflows
 
-Professional Training, Full-Stack & Mobile Development (2024 - 2025)  
-- Containerized apps with Docker and deployed via Kubernetes.  
-- Built React Native apps, TypeScript UIs, and CI/CD pipelines.  
-- Implemented backend APIs using Golang.  
-- Explored AI project building and Git/GitHub workflows.
-
+Stack  
+Node.js · AWS · FFmpeg · Docker
 
 ---
 
+### RotFalken — E-Commerce Automation System
 
-<div align="start">
-  <img src="https://assets.schools.nsw.gov.au/content/dam/doe/sws/schools/b/blacktownb-h/logo.png" width="128" height="128" alt="Logo" />
-</div>
-<h2> <strong> Blacktown Boys High School </strong> </h2>
+Commerce infrastructure designed for **inventory automation and scalable storefront management**.
 
-High School Certification, Computer Science (2023 - 2024)  
-- Studied software design, business systems, industrial tech, and law.  
-- Analyzed the connection between technical systems and regulatory/business domains.
+Highlights
 
-</div>
+• hybrid WordPress backend  
+• React-driven storefront components  
+• automated order and inventory pipelines
+
+Stack  
+WordPress · React · Node.js · Figma
+
+---
+
+### Global Vaddo — Nonprofit Platform Modernization
+
+Digital platform designed to support **charity operations and online donations**.
+
+Highlights
+
+• WordPress CMS backend  
+• statically optimized Next.js frontend  
+• redesigned UX for accessibility and mobile performance
+
+Stack  
+WordPress · Next.js · Figma
+
+---
+
+# 🥉 Supporting Packages & Engineering Utilities
+
+These repositories contain **modular packages and supporting tooling** used while building BEGENONE and related systems.
+
+### BEGENONE Modular Packages
+
+**Wire — Event / Messaging Layer**  
+https://github.com/areeshalam/begenone-pkgm-wire
+
+**Channel — Creator Channel Infrastructure**  
+https://github.com/areeshalam/begenone-pkgm-channel
+
+**API — Core Service API Interfaces**  
+https://github.com/areeshalam/begenone-pkgm-api
+
+**Video — Media Processing & Video Logic**  
+https://github.com/areeshalam/begenone-pkgm-video
+
+**Settings — Platform Configuration Layer**  
+https://github.com/areeshalam/begenone-pkgm-settings
+
+**Shared — Cross-Service Utilities & Types**  
+https://github.com/areeshalam/begenone-pkgm-shared
+
+---
+
+### Engineering Tools
+
+**Tech Assist — Developer Support Utilities**  
+https://github.com/areeshalam/tech-assist
+
+---
+
+Additional repositories contain supporting infrastructure, tooling experiments, and development packages used across projects.
+
+</details>
+
+---
+
+## 🏗 Architectural Diagrams
+
+<details>
+<summary><strong>View system architecture sketches</strong></summary>
+
+<br>
+
+Design diagrams created while building distributed systems and debugging production issues.
+
+🔗 Repository  
+https://github.com/WereformCorp/architectural-diagrams
+
+Contents include:
+
+• Authentication architecture  
+• Microservice dependency mapping  
+• Subscription permission flows  
+• Media upload pipelines  
+• Distributed debugging timelines  
+
+Explore the full diagram library:  
+https://github.com/WereformCorp/architectural-diagrams
+
+</details>
 
 ---
 
@@ -414,21 +484,11 @@ https://medium.com/code-sense
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=areeshalam&theme=dark&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areeshalam&theme=dark&layout=compact&hide_border=true&cache_seconds=1800)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=areeshalam&theme=dark&hide_border=true)
-
----
-
-## ⚡ Quick Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:areeshpersonal5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/areeshalam21)
-[![Phone](https://img.shields.io/badge/Phone-%2B61%20Four~Three~Five%20·%20090%20·%20611-00bfa6?style=for-the-badge&logo=call&logoColor=white)](tel:+61435090611)
 
 ---
 
@@ -460,6 +520,59 @@ https://medium.com/code-sense
 
 - **Tools Support Process, Not Vice Versa**  
   I don’t force tools into workflows. Git, CI/CD, task tracking, and review processes are shaped to accelerate delivery — not slow it down.
+
+---
+
+# 🎓 Education
+
+<div>
+<div align="start">
+  <img src="https://avatars.githubusercontent.com/u/35373879?s=200&v=4" width="128" height="128" alt="Logo" />
+</div>
+<h2>  <strong> Zero To Mastery Academy </strong> </h2>
+
+Professional Training, Artificial Intelligence, Machine Learning & Data Science (2025 - 2026)    
+- Completed ML projects and data modeling tasks.  
+- Participated in coding challenges and collaborative problem-solving.  
+- Built applications using Python, and applied ML to real-world cases.
+
+
+---
+
+
+<div align="start">
+  <img src="https://avatars.githubusercontent.com/u/28806202?s=200&v=4" width="128" height="128" alt="Logo" />
+</div>
+<h2> <strong> Academind </strong> </h2>
+
+Professional Training, Full-Stack & Mobile Development (2024 - 2025)  
+- Containerized apps with Docker and deployed via Kubernetes.  
+- Built React Native apps, TypeScript UIs, and CI/CD pipelines.  
+- Implemented backend APIs using Golang.  
+- Explored AI project building and Git/GitHub workflows.
+
+
+---
+
+
+<div align="start">
+  <img src="https://assets.schools.nsw.gov.au/content/dam/doe/sws/schools/b/blacktownb-h/logo.png" width="128" height="128" alt="Logo" />
+</div>
+<h2> <strong> Blacktown Boys High School </strong> </h2>
+
+High School Certification, Computer Science (2023 - 2024)  
+- Studied software design, business systems, industrial tech, and law.  
+- Analyzed the connection between technical systems and regulatory/business domains.
+
+</div>
+
+---
+
+## ⚡ Quick Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:areeshpersonal5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/areeshalam21)
+[![Phone](https://img.shields.io/badge/Phone-%2B61%20Four~Three~Five%20·%20090%20·%20611-00bfa6?style=for-the-badge&logo=call&logoColor=white)](tel:+61435090611)
 
 ---
 
