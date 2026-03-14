@@ -266,98 +266,149 @@ High School Certification, Computer Science (2023 - 2024)
 
 ---
 
-## ✍️ Articles & Writings
+## ✍️ Engineering Articles
 
 <details>
-<summary><strong>Click to expand articles</strong></summary>
+<summary><strong>📚 Expand the Article Library</strong></summary>
+
+<br>
 
 ---
 
-### [4 Clean Code Habits That Instantly Make You a Better Developer (Part 2)](https://medium.com/code-sense/4-clean-code-habits-that-instantly-make-you-a-better-developer-part-2-b54be3b403b2)  
-*Medium*  
-A continuation of practical clean-code discipline, focusing on habits that improve readability, reduce cognitive load, and prevent subtle bugs. This piece digs into small structural decisions that quietly compound into long-term engineering leverage.
+### 🧠 Clean Code & Engineering Discipline
+
+**4 Clean Code Habits That Instantly Make You a Better Developer (Part 2)**  
+https://medium.com/code-sense/4-clean-code-habits-that-instantly-make-you-a-better-developer-part-2-b54be3b403b2  
+Small habits compound. This piece explores structural decisions that quietly improve readability, reduce cognitive load, and prevent subtle long-term bugs.
 
 ---
 
-### [5 Clean Code Principles That Save You Months of Pain Later](https://medium.com/code-sense/5-clean-code-principles-that-save-you-months-of-pain-later-744a5b468e0b)  
-*Medium*  
-A practical guide to five clean-code habits that eliminate technical debt before it forms. From meaningful structure to smarter logging and self-documenting patterns, this article shows how small daily choices prevent months of debugging, rewrites, and production chaos.
+**5 Clean Code Principles That Save You Months of Pain Later**  
+https://medium.com/code-sense/5-clean-code-principles-that-save-you-months-of-pain-later-744a5b468e0b  
+A practical breakdown of engineering habits that eliminate technical debt before it forms.
 
 ---
 
-### [After 100,000 Lines of Code, This Is What Clean Finally Means](https://medium.com/code-sense/after-100-000-lines-of-code-this-is-what-clean-finally-means-e328812528d5)  
-*Medium*  
-A hard-earned breakdown of what “clean code” actually means after writing and maintaining 100K+ lines in production. Covers clutter removal, real-world logging, disciplined imports, documentation that editors can understand, and why readability beats cleverness every time.
+**After 100,000 Lines of Code, This Is What Clean Finally Means**  
+https://medium.com/code-sense/after-100-000-lines-of-code-this-is-what-clean-finally-means-e328812528d5  
+A reflection on what “clean code” truly means after maintaining large production systems.
 
 ---
 
-### [Why Most Side Projects Die at the Deployment Stage](https://medium.com/code-sense/why-most-side-projects-die-at-the-deployment-stage-0dad66263e6c)  
-*Medium*  
-A breakdown of why projects rarely fail during development but collapse when they hit production. Covers the shock of real infrastructure, public exposure, cost, responsibility, and the hidden pressures that stall most builders right before shipping.
+### 🏗 Architecture & System Design
+
+**Designing a Subscription-Based Access System End-to-End**  
+https://medium.com/code-sense/designing-a-subscription-based-access-system-end-to-end-36fb207b3394  
+A system design walkthrough showing how subscription permissions should be enforced across a production application.
 
 ---
 
-### [The Lie of “I’ll Start When I’m Ready” — And Why It Destroys Ambitious People](https://medium.com/code-sense/the-lie-of-ill-start-when-i-m-ready-and-why-it-destroys-ambitious-people-c3f0bf0d20ea)  
-*Medium*  
-A psychological teardown of procrastination disguised as “preparation.” Explains why waiting to feel ready kills momentum, traps ambitious people in planning loops, and how real progress actually begins.
+**Only 1 Guide That Would Save Hours of Research on Microservice Dependency**  
+https://medium.com/code-sense/only-1-guide-that-would-save-hours-of-research-on-microservice-dependency-330f0564606b  
+Explains how service dependencies work in distributed systems and why understanding them prevents cascading failures.
 
 ---
 
-### [The Skill You Actually Lack Isn’t Coding — It’s Focus](https://medium.com/code-sense/the-skill-you-actually-lack-isnt-coding-it-s-focus-9174347b8410)  
-*Medium*  
-A breakdown of the hidden failure mode most developers never notice: inconsistency. Why momentum, documentation, and daily practice matter more than raw talent.
+**How Microservices Work and How to Scale Teams and Codebases**  
+https://medium.com/code-sense/how-microservices-work-and-how-to-scale-teams-and-codebases-cff60c05ae69  
+Explores service boundaries, autonomy, and the scaling benefits of microservices.
 
 ---
 
-### [You’re Learning Everything About Tech — But You Still Don’t Know What To Do With It](https://medium.com/code-sense/youre-learning-everything-about-tech-but-you-still-don-t-know-what-to-do-with-it-3248a2fdd7a9)  
-*Medium*  
-A guide for those drowning in tutorials but lacking direction. Explains how project-driven learning creates clarity, purpose, and momentum.
+**Should You Really Use Microservices? The Easiest Guide for New Developers**  
+https://medium.com/code-sense/should-you-really-use-microservices-the-easiest-guide-for-new-developers-474af76e4ecc  
+A clear guide to monoliths vs microservices and how to choose the right architecture.
 
 ---
 
-### [How I Finally Got a React Native Monorepo Working (Turbo · PNPM · Expo Shell)](https://medium.com/code-sense/how-i-finally-got-a-react-native-monorepo-working-with-turbo-pnpm-and-an-expo-shell-after-c8afd85522ea)  
-*Medium*  
-A complete post-mortem of building a modern RN monorepo. Covers bundling issues, EAS pitfalls, workspace conflicts, and the architecture that finally worked.
+**Should We Really Use MicroFrontends? A Simple Guide for Developers**  
+https://medium.com/code-sense/should-we-really-use-microfrontends-a-simple-guide-for-developers-2d7a87136991  
+A practical overview of microfrontends and when they help or harm engineering velocity.
 
 ---
 
-### [The Signup System That Worked — But Locked Users Out](https://medium.com/code-sense/the-signup-system-that-worked-but-locked-users-out-f20cda5f18fa)  
-*Medium*  
-A case study showing how a functional system still failed users. Unpacks subtle verification bugs, token handling, and design decisions that break onboarding.
+### 🔐 Backend & Infrastructure
+
+**A Simple Practical Guide on How Authentication Works**  
+https://medium.com/code-sense/a-simple-practical-guide-on-how-authentication-works-7a4d4ce1d3f1  
+A clear explanation of how authentication flows operate inside real systems.
 
 ---
 
-### [My S3 Multipart Upload Was Lying to Me — Here’s How I Caught It](https://medium.com/code-sense/my-s3-multipart-upload-was-lying-to-me-heres-how-i-caught-it-53eb27f065b0)  
-*Medium*  
-A technical deep dive into silent S3 upload failures. Covers checksum mismatches, corrupted parts, misaligned SDK assumptions, and the corrected architecture.
+**Dev vs Prod Is Not a Config Problem**  
+https://medium.com/code-sense/dev-vs-prod-is-not-a-config-problem-a078e285fb14  
+Explains why the same code behaves differently once it moves from development into production infrastructure.
 
 ---
 
-### [When Expo Go Refuses to Load: My Unexpected War with Wi-Fi](https://medium.com/code-sense/when-expo-go-refuses-to-load-my-unexpected-war-with-wi-fi-afb5c7ce8737)  
-*Medium*  
-A realistic debugging story about Expo Go failing to load due to network issues. Explains host-device IP mismatches, tunneling, LAN mode, and development pitfalls.
+### 🧪 Debugging & Engineering War Stories
+
+**My S3 Multipart Upload Was Lying to Me — Here’s How I Caught It**  
+https://medium.com/code-sense/my-s3-multipart-upload-was-lying-to-me-heres-how-i-caught-it-53eb27f065b0  
+A deep debugging investigation into silent multipart upload corruption.
 
 ---
 
-### [How Microservices Work and How to Scale Teams and Codebases](https://medium.com/code-sense/how-microservices-work-and-how-to-scale-teams-and-codebases-cff60c05ae69)  
-*Medium*  
-Explains the foundations of microservices — boundaries, communication, autonomy — and how they enable scaling teams, systems, and deployment pipelines.
+**Why I Switched to S3 Multipart Uploads for Video in a Microservice Architecture**  
+https://medium.com/code-sense/why-i-switched-to-s3-multipart-uploads-for-video-in-a-microservice-architecture-bae64d66f327  
+Explains how multipart uploads drastically improve reliability for large media uploads.
 
 ---
 
-### [Should We Really Use MicroFrontends? A Simple Guide for Developers](https://medium.com/code-sense/should-we-really-use-microfrontends-a-simple-guide-for-developers-2d7a87136991)  
-*Medium*  
-A practical overview of microfrontends, Module Federation, when they help, and when they can destroy velocity instead of improving it.
+**RAW Debugging Expo Video Playback — Technical Timeline**  
+https://medium.com/code-sense/raw-debugging-expo-video-playback-technical-timeline-ab6eb8501af4  
+A real engineering timeline of diagnosing video playback issues in an Expo environment.
 
 ---
 
-### [Should You Really Use Microservices? The Easiest Guide for New Developers](https://medium.com/code-sense/should-you-really-use-microservices-the-easiest-guide-for-new-developers-474af76e4ecc)  
-*Medium*  
-A beginner-friendly walkthrough of monoliths vs microservices, tradeoffs, deployment realities, and how to make the right architecture choice.
+**When Expo Go Refuses to Load: My Unexpected War with Wi-Fi**  
+https://medium.com/code-sense/when-expo-go-refuses-to-load-my-unexpected-war-with-wi-fi-afb5c7ce8737  
+A debugging story about network issues breaking mobile development workflows.
 
 ---
 
-### **[More Articles →](https://medium.com/code-sense)**
+**How I Finally Got a React Native Monorepo Working (Turbo · PNPM · Expo Shell)**  
+https://medium.com/code-sense/how-i-finally-got-a-react-native-monorepo-working-with-turbo-pnpm-and-an-expo-shell-after-c8afd85522ea  
+A technical breakdown of building a modern React Native monorepo.
+
+---
+
+**The Signup System That Worked — But Locked Users Out**  
+https://medium.com/code-sense/the-signup-system-that-worked-but-locked-users-out-f20cda5f18fa  
+A case study showing how subtle verification design mistakes can break onboarding flows.
+
+---
+
+### 🧭 Developer Mindset
+
+**Why Most Side Projects Die at the Deployment Stage**  
+https://medium.com/code-sense/why-most-side-projects-die-at-the-deployment-stage-0dad66263e6c  
+Why projects rarely fail during development but collapse when facing real infrastructure.
+
+---
+
+**The Lie of “I’ll Start When I’m Ready” — And Why It Destroys Ambitious People**  
+https://medium.com/code-sense/the-lie-of-ill-start-when-i-m-ready-and-why-it-destroys-ambitious-people-c3f0bf0d20ea  
+A teardown of preparation-driven procrastination.
+
+---
+
+**The Skill You Actually Lack Isn’t Coding — It’s Focus**  
+https://medium.com/code-sense/the-skill-you-actually-lack-isnt-coding-it-s-focus-9174347b8410  
+Why consistency and disciplined effort matter more than raw talent.
+
+---
+
+**You’re Learning Everything About Tech — But You Still Don’t Know What To Do With It**  
+https://medium.com/code-sense/youre-learning-everything-about-tech-but-you-still-don-t-know-what-to-do-with-it-3248a2fdd7a9  
+How project-driven learning builds clarity and direction.
+
+---
+
+<br>
+
+**Explore all articles:**  
+https://medium.com/code-sense
 
 </details>
 
