@@ -14,6 +14,7 @@ I engineer for reliability, automate for efficiency, and deliver with precision.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/areeshalam21)
 [![X/Twitter](https://img.shields.io/badge/-X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/areeshalam21)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:areeshpersonal5@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B61%20Four~Three~Five%20·%20090%20·%20611-00bfa6?style=for-the-badge&logo=call&logoColor=white)](tel:+61435090611)
 
 
 ---
@@ -523,56 +524,14 @@ https://medium.com/code-sense
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-<div>
-<div align="start">
-  <img src="https://avatars.githubusercontent.com/u/35373879?s=200&v=4" width="128" height="128" alt="Logo" />
-</div>
-<h2>  <strong> Zero To Mastery Academy </strong> </h2>
-
-Professional Training, Artificial Intelligence, Machine Learning & Data Science (2025 - 2026)    
-- Completed ML projects and data modeling tasks.  
-- Participated in coding challenges and collaborative problem-solving.  
-- Built applications using Python, and applied ML to real-world cases.
-
-
----
-
-
-<div align="start">
-  <img src="https://avatars.githubusercontent.com/u/28806202?s=200&v=4" width="128" height="128" alt="Logo" />
-</div>
-<h2> <strong> Academind </strong> </h2>
-
-Professional Training, Full-Stack & Mobile Development (2024 - 2025)  
-- Containerized apps with Docker and deployed via Kubernetes.  
-- Built React Native apps, TypeScript UIs, and CI/CD pipelines.  
-- Implemented backend APIs using Golang.  
-- Explored AI project building and Git/GitHub workflows.
-
-
----
-
-
-<div align="start">
-  <img src="https://assets.schools.nsw.gov.au/content/dam/doe/sws/schools/b/blacktownb-h/logo.png" width="128" height="128" alt="Logo" />
-</div>
-<h2> <strong> Blacktown Boys High School </strong> </h2>
-
-High School Certification, Computer Science (2023 - 2024)  
-- Studied software design, business systems, industrial tech, and law.  
-- Analyzed the connection between technical systems and regulatory/business domains.
-
-</div>
-
----
-
-## ⚡ Quick Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:areeshpersonal5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/areeshalam21)
-[![Phone](https://img.shields.io/badge/Phone-%2B61%20Four~Three~Five%20·%20090%20·%20611-00bfa6?style=for-the-badge&logo=call&logoColor=white)](tel:+61435090611)
+| | |
+|---|---|
+| <img src="https://avatars.githubusercontent.com/u/35373879?s=200&v=4" width="90"/> | **Zero To Mastery Academy** <br> *Professional Training — Artificial Intelligence, Machine Learning & Data Science* <br> **2025 – 2026** <br><br> • Completed machine learning projects and data modeling tasks <br> • Participated in coding challenges and collaborative problem solving <br> • Built Python applications applying ML to real-world cases |
+| <img src="https://avatars.githubusercontent.com/u/28806202?s=200&v=4" width="90"/> | **Academind** <br> *Professional Training — Full-Stack & Mobile Development* <br> **2024 – 2025** <br><br> • Built React Native apps and TypeScript frontends <br> • Containerized applications with Docker and Kubernetes <br> • Implemented backend APIs using Golang <br> • Explored CI/CD pipelines and Git workflows |
+| <img src="https://media.licdn.com/dms/image/v2/C4E0BAQEeblHx_46ofw/company-logo_200_200/company-logo_200_200/0/1631340893924?e=1775088000&v=beta&t=7UEcdnT8VOVzh6Hfnim7RNWTMedbcoL_vMOIFYBDKLc" width="90"/> | **365 Careers** <br> *Professional Training — Project Management, Agile & Scrum* <br> **2025 – 2026** <br><br> • Studying project planning, Agile workflows, and Scrum methodologies <br> • Learning team coordination, backlog management, and sprint execution <br> • Developing practical understanding of project leadership in software teams |
+| <img src="https://assets.schools.nsw.gov.au/content/dam/doe/sws/schools/b/blacktownb-h/logo.png" width="90"/> | **Blacktown Boys High School** <br> *High School Certification — Computer Science* <br> **2023 – 2024** <br><br> • Studied software design, business systems, industrial technology, and law <br> • Explored the relationship between technical systems and business regulations |
 
 ---
 
