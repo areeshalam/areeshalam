@@ -257,6 +257,34 @@ Additional repositories contain supporting infrastructure, tooling experiments, 
 
 ---
 
+## 🧪 Testing
+
+<details>
+<summary><strong>View testing modules</strong></summary>
+
+<br>
+
+### 🗄️ Database Integration Tests
+
+Tests validating real database behavior using Mongoose and MongoDB.
+
+🔗 Repository  
+https://github.com/WereformCorp/api-test-kit
+
+Covers:
+
+• CRUD operations (create, update, delete, read)  
+• data integrity (unique constraints)  
+• database connection handling  
+• isolated test execution  
+
+Type  
+Integration Testing
+
+</details>
+
+---
+
 ## 🏗 Architectural Diagrams
 
 <details>
