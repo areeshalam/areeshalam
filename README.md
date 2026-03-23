@@ -552,7 +552,7 @@ https://medium.com/code-sense
 ## 🔥 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=areeshalam&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=areeshalam&theme=tokyonight&v=1"/>
 </p>
 
 ---
