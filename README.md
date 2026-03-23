@@ -513,11 +513,55 @@ https://medium.com/code-sense
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity <sub>(Public repositories only)</sub>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=areeshalam&theme=dark&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areeshalam&theme=dark&layout=compact&hide_border=true&cache_seconds=1800)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=areeshalam&theme=dark&hide_border=true)
+<!-- Core Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=areeshalam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeshalam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=areeshalam&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## ⚙️ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areeshalam&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Contribution Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=areeshalam&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=areeshalam&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=areeshalam&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=areeshalam&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+## 🚀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=areeshalam&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
