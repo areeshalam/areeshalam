@@ -536,7 +536,7 @@ https://medium.com/code-sense
 
 ---
 
-## 🧠 Contribution Metrics
+## 🧠 Contribution Metrics (does not reflect code from private repositories)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=areeshalam&theme=tokyonight" />
